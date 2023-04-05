@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Koby9
-- 🌱 I’m currently mastering front-end web development
+- 🌱 I’m currently mastering email development
 - 📫 kobymoon.dev@gmail.com
 
 <!---
