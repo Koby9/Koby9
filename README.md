@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Koby9
-- 🌱 I’m currently mastering email development
+- 🌱 Graduating with a degree in Software Engineering in 2025
 - 📫 kobymoon.dev@gmail.com
 
 <!---
